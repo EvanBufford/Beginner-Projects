@@ -1,2 +1,1 @@
-# Calculator
-Just a simple program to practice my python coding
+Beginner Projects in different languages!
